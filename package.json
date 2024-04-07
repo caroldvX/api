@@ -1,0 +1,12 @@
+{
+  "name": "api-data-atualizada",
+  "version": "1.0.0",
+  "description": "API de data atualizada hospedada no GitHub Pages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
